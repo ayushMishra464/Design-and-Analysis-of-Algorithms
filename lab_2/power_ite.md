@@ -50,6 +50,3 @@ The program measures the average time taken by the power function for exponents 
 
 Contributions are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
