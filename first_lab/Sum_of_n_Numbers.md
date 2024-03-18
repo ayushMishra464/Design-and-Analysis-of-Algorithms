@@ -39,5 +39,4 @@ The program generates a graph showing the average time taken for different value
 - C++ compiler
 - Gnuplot (for visualization)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
