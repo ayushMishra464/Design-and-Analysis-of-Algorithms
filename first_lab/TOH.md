@@ -48,5 +48,4 @@ The program generates a graph showing the average time taken to solve the Towers
 - Modify the loop parameters in `avg_time` function for different ranges of numbers of disks.
 - Ensure Gnuplot is installed on your system to visualize the generated data.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
