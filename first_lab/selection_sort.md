@@ -45,6 +45,4 @@ Ensure that Gnuplot is installed on your system to visualize the graph.
 
 Contributions are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
