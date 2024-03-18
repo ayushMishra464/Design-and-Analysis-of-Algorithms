@@ -46,5 +46,4 @@ The program generates a graph showing the average time taken to generate true-fa
 - Modify the loop parameters in `avg_time` function for different ranges of iterations.
 - Ensure Gnuplot is installed on your system to visualize the generated data.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
