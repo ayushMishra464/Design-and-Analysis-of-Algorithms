@@ -1,5 +1,3 @@
-// Kruskal's algorithm in C++
-
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -24,8 +22,7 @@ class Graph {
 Graph::Graph(int V) {
   parent = new int[V];
 
-  //i 0 1 2 3 4 5
-  //parent[i] 0 1 2 3 4 5
+ 
   for (int i = 0; i < V; i++)
     parent[i] = i;
 
