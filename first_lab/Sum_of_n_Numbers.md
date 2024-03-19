@@ -26,7 +26,8 @@ The algorithm implemented in this program computes the sum of N numbers using a 
 
 ## Complexity
 The time complexity of this algorithm is O(N), where N is the number of elements in the array.
-![image](https://github.com/ayushMishra464/Design-and-Analysis-of-Algorithms/assets/158063230/23d9cb53-7d97-40fe-ac20-cfd8c6f6985e)
+![image](https://github.com/ayushMishra464/Design-and-Analysis-of-Algorithms/assets/158063230/c72a770d-0520-4aac-917e-0eec72bd10d2)
+
 
 ## Graph Analysis
 The program generates a graph showing the average time taken for different values of N. As N increases, the time taken to compute the sum also increases linearly.
