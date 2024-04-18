@@ -1,6 +1,3 @@
-Certainly! Here's the README file with an "Application" section added to each problem:
-
----
 
 ## Problem 1: Graph Coloring (m-coloring)
 
