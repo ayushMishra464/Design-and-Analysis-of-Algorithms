@@ -34,3 +34,13 @@ Lab 5:-
 Lab 6:-
 1. Multistage Graph
 2. Kruskal Algorithm
+
+Lab 8:-
+Longest Common Subsequence
+Merge Purge
+Knapsack using Merge Purge
+
+Lab 9:-
+Graph Coloring
+N Queens
+Sum of Subsets
